@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Jay Malhar",
+  "description": "Authentic Maharashtrian dining experience showcasing traditional flavors and warm hospitality.",
+  "requestFramePermissions": ["geolocation"]
+}
